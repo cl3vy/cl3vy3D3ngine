@@ -1,0 +1,17 @@
+﻿  cl3vy3D3ngine.cpp
+C:\Users\user\source\repos\cl3vy\cl3vy3D3ngine\cl3vy3D3ngine\olcConsoleGameEngine.h(759,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\user\source\repos\cl3vy\cl3vy3D3ngine\cl3vy3D3ngine\olcConsoleGameEngine.h(1099,31): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\user\source\repos\cl3vy\cl3vy3D3ngine\cl3vy3D3ngine\olcConsoleGameEngine.h(1196,4): warning C4312: 'type cast': conversion from 'DWORD' to 'olcConsoleGameEngine *' of greater size
+C:\Users\user\source\repos\cl3vy\cl3vy3D3ngine\cl3vy3D3ngine\cl3vy3D3ngine.cpp(146,40): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\source\repos\cl3vy\cl3vy3D3ngine\cl3vy3D3ngine\cl3vy3D3ngine.cpp(147,40): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\source\repos\cl3vy\cl3vy3D3ngine\cl3vy3D3ngine\cl3vy3D3ngine.cpp(149,40): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\source\repos\cl3vy\cl3vy3D3ngine\cl3vy3D3ngine\cl3vy3D3ngine.cpp(150,40): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\source\repos\cl3vy\cl3vy3D3ngine\cl3vy3D3ngine\cl3vy3D3ngine.cpp(152,40): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\source\repos\cl3vy\cl3vy3D3ngine\cl3vy3D3ngine\cl3vy3D3ngine.cpp(153,40): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\source\repos\cl3vy\cl3vy3D3ngine\cl3vy3D3ngine\cl3vy3D3ngine.cpp(158,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\user\source\repos\cl3vy\cl3vy3D3ngine\cl3vy3D3ngine\cl3vy3D3ngine.cpp(158,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\user\source\repos\cl3vy\cl3vy3D3ngine\cl3vy3D3ngine\cl3vy3D3ngine.cpp(157,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\user\source\repos\cl3vy\cl3vy3D3ngine\cl3vy3D3ngine\cl3vy3D3ngine.cpp(157,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\user\source\repos\cl3vy\cl3vy3D3ngine\cl3vy3D3ngine\cl3vy3D3ngine.cpp(156,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\user\source\repos\cl3vy\cl3vy3D3ngine\cl3vy3D3ngine\cl3vy3D3ngine.cpp(156,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  cl3vy3D3ngine.vcxproj -> C:\Users\user\Source\Repos\cl3vy\cl3vy3D3ngine\x64\Debug\cl3vy3D3ngine.exe
